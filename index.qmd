@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+    - icon: file-pdf-fill
+      text: CV
+      file: cv.pdf
 ---
 
 This is a Quarto website.

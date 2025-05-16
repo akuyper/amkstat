@@ -11,6 +11,8 @@ About this site
 ## Hello
 
 ```{r}
+#| echo: false
+
 lorem::ipsum(3)
 ```
 
@@ -18,5 +20,7 @@ lorem::ipsum(3)
 ### This is subheader
 
 ```{r}
+#| echo: false
+
 lorem::ipsum(2)
 ```

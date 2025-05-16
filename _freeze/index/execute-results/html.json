@@ -1,8 +1,8 @@
 {
-  "hash": "a15ed6516dab24060f8e9ad3c859965d",
+  "hash": "67fd6fc303d1dfd237b75610ea90dbc7",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Arend M Kuyper\"\nabout:\n  template: trestles\n  image: images/cartoon_clt.jpeg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Arend M Kuyper\"\nabout:\n  template: trestles\n  image: images/cartoon_clt.jpeg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - icon: file-pdf-fill\n      text: CV\n      file: cv.pdf\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
