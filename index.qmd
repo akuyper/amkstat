@@ -1,5 +1,15 @@
 ---
-title: "amkstat"
+title: "Arend M Kuyper"
+about:
+  template: trestles
+  image: images/cartoon_clt.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
 This is a Quarto website.
