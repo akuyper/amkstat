@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://akuyper.github.io/amkstat/index.html</loc>
-    <lastmod>2025-05-16T17:38:46.091Z</lastmod>
+    <lastmod>2025-05-16T17:51:36.172Z</lastmod>
   </url>
   <url>
     <loc>https://akuyper.github.io/amkstat/about.html</loc>
-    <lastmod>2025-05-16T17:38:46.075Z</lastmod>
+    <lastmod>2025-05-16T17:51:36.157Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akuyper.github.io/amkstat/pres.html</loc>
+    <lastmod>2025-05-16T17:51:36.173Z</lastmod>
   </url>
 </urlset>
